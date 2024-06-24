@@ -177,6 +177,7 @@ nav li {
     margin-top: 110px;
     margin: auto;
     width: 100%;
+    height: fit-content;
 }
 
 .about_text,.about_img{
